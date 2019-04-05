@@ -4,7 +4,7 @@
 * [site.css](./CS/DxSample/css/site.css)
 * [Extensions.cs](./CS/DxSample/Extensions.cs) (VB: [Extensions.vb](./VB/DxSample/Extensions.vb))
 * [index.aspx](./CS/DxSample/index.aspx) (VB: [index.aspx](./VB/DxSample/index.aspx))
-* **[index.aspx.cs](./CS/DxSample/index.aspx.cs) (VB: [index.aspx](./VB/DxSample/index.aspx))**
+* **[index.aspx.cs](./CS/DxSample/index.aspx.cs) (VB: [index.aspx.vb](./VB/DxSample/index.aspx.vb))**
 * [index.js](./CS/DxSample/js/index.js) (VB: [index.js](./VB/DxSample/js/index.js))
 <!-- default file list end -->
 # OBSOLETE - How to bind a dxChart plugin from ChartJS library to ASPxPivotGrid
