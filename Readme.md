@@ -8,6 +8,9 @@
 * [index.js](./CS/DxSample/js/index.js) (VB: [index.js](./VB/DxSample/js/index.js))
 <!-- default file list end -->
 # OBSOLETE - How to bind a dxChart plugin from ChartJS library to ASPxPivotGrid
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4508)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to obtain the chart datasource using the IDataSource interface implemented by the ASPxPivotGrid, convert data to the JSON format and pass it to the client via a custom JS property added to the ASPxPivotGrid.<br><br></p>
